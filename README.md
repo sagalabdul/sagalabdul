@@ -86,7 +86,7 @@ hobbies:
 <p align="center">
   <!-- AWS Certifications -->
   <a href="https://www.credly.com/users/sagal-abdullahi.29ec7d8d">
-    <img src="https://www.credly.com/badges/990a630c-2e60-4dc5-aded-02859bd626ea/public_url" alt="AWS Cloud Practitioner" height="60"/>
+    <img src="https://www.credly.com/badges/990a630c-2e60-4dc5-aded-02859bd626ea/public_url" alt="AWS Certifications" height="60"/>
   </a>
 
   <!-- Azure Fundamentals -->
